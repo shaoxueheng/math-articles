@@ -12,20 +12,20 @@
 
 ## 文章列表
 
-| 期数 | 标题 |
-|------|------|
-| 第01期 | [数学有什么用？不只是买菜算账](articles/第01期_数学有什么用？不只是买菜算账.html) |
-| 第02期 | [加减乘除的真本事](articles/第02期_加减乘除的真本事.html) |
-| 第03期 | [分数就是分蛋糕](articles/第03期_分数就是分蛋糕.html) |
-| 第04期 | [装修要用多少地砖](articles/第04期_装修要用多少地砖.html) |
-| 第05期 | [龟兔赛跑的数学真相](articles/第05期_龟兔赛跑的数学真相.html) |
-| 第06期 | [别被平均数骗了](articles/第06期_别被平均数骗了.html) |
-| 第07期 | [方程就是一架天平](articles/第07期_方程就是一架天平.html) |
-| 第08期 | [用影子量出金字塔的高度](articles/第08期_用影子量出金字塔的高度.html) |
-| 第09期 | [给世界画一张图](articles/第09期_给世界画一张图.html) |
-| 第10期 | [追踪天上的每一架飞机](articles/第10期_追踪天上的每一架飞机.html) |
-| 第11期 | [密码锁有多少种可能](articles/第11期_密码锁有多少种可能.html) |
-| 第12期 | [AI不是魔法，是数学的胜利](articles/第12期_AI不是魔法，是数学的胜利.html) |
+| 期数 | 标题 | 在线阅读 |
+|------|------|----------|
+| 第01期 | 数学有什么用？不只是买菜算账 | [阅读](https://shaoxueheng.github.io/math-articles/articles/01.html) |
+| 第02期 | 加减乘除的真本事 | [阅读](https://shaoxueheng.github.io/math-articles/articles/02.html) |
+| 第03期 | 分数就是分蛋糕 | [阅读](https://shaoxueheng.github.io/math-articles/articles/03.html) |
+| 第04期 | 装修要用多少地砖 | [阅读](https://shaoxueheng.github.io/math-articles/articles/04.html) |
+| 第05期 | 龟兔赛跑的数学真相 | [阅读](https://shaoxueheng.github.io/math-articles/articles/05.html) |
+| 第06期 | 别被平均数骗了 | [阅读](https://shaoxueheng.github.io/math-articles/articles/06.html) |
+| 第07期 | 方程就是一架天平 | [阅读](https://shaoxueheng.github.io/math-articles/articles/07.html) |
+| 第08期 | 用影子量出金字塔的高度 | [阅读](https://shaoxueheng.github.io/math-articles/articles/08.html) |
+| 第09期 | 给世界画一张图 | [阅读](https://shaoxueheng.github.io/math-articles/articles/09.html) |
+| 第10期 | 追踪天上的每一架飞机 | [阅读](https://shaoxueheng.github.io/math-articles/articles/10.html) |
+| 第11期 | 密码锁有多少种可能 | [阅读](https://shaoxueheng.github.io/math-articles/articles/11.html) |
+| 第12期 | AI不是魔法，是数学的胜利 | [阅读](https://shaoxueheng.github.io/math-articles/articles/12.html) |
 
 ## 内容特色
 
@@ -37,3 +37,7 @@
 ## 关于
 
 本系列为科普文章，首发于微信公众号。
+
+## License
+
+[MIT](LICENSE)
